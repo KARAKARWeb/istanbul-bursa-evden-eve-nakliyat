@@ -1,0 +1,14 @@
+{
+  "title": "İstanbul'dan Bursa'ya Planlanan Rota Bilgileri",
+  "description": "İstanbul’dan Bursa’ya oluşturulan rota, ortalama süreyi gösterir; mola planı, trafik verisi, teslim saatini daha isabetli kılar, sürprizi azaltır.",
+  "originCoords": "KOZCUOĞLU Eşya Depolama ve Nakliyat Hizmetleri",
+  "destinationCoords": "Bursa",
+  "fromCity": "İstanbul",
+  "toCity": "Bursa",
+  "distance": 148,
+  "duration": 1.5,
+  "basePrice": 1500,
+  "sourceCity": "İstanbul",
+  "targetCity": "Bursa",
+  "priceMin": 13800
+}

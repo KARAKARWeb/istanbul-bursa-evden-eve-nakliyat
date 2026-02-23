@@ -1,0 +1,31 @@
+{
+  "title": "Hizmetlerimiz",
+  "description": "<p>İstanbul Bursa hattında, paketlemeden kurulum desteğine kadar uzanan süreçte, eşyaya uygun ekipmanla ilerleyen taşımacılık seçenekleri sunuyoruz, riskleri azaltıyoruz.</p>",
+  "services": [
+    {
+      "title": "Evden Eve Nakliyat",
+      "description": "<p>Eşyalarınızı rulo ambalajla sarar, araçta sabitler, kontrollü teslim ederiz.</p>"
+    },
+    {
+      "title": "Sözleşmeli Evden Eve Nakliyat",
+      "description": "<p>Süre, bedel, kapsam yazılı olur; sürpriz masraf ihtimali ortadan kalkar.</p>"
+    },
+    {
+      "title": "Sigortalı Evden Eve Nakliyat",
+      "description": "<p>Poliçe açılır, riskler güvenceye girer; olası hasar sürecini biz yönetiriz.</p>"
+    },
+    {
+      "title": "Asansörlü Evden Eve Nakliyat",
+      "description": "<p>Dış cephe asansörü kurarız, hızlı yükler, zorlu girişleri güvenle aşarız.</p>"
+    },
+    {
+      "title": "Ofis Taşımacılığı",
+      "description": "<p>Arşivi kodlar, cihazları korur, kurulum planını aynı gün tamamlarız.</p>"
+    },
+    {
+      "title": "Eşya Depolama",
+      "description": "<p>Nem kontrollü alanda kilitli saklarız, düzenli durum raporu da veririz.</p>"
+    }
+  ],
+  "footer": "<p>Taşınma öncesi ücretsiz ekspertiz ile metrajı çıkarır, ekipman listesini belirleriz. Çift kat streç film, köpük koruma, köşe kartonu, kolileme, mobilya söküm-montaj aynı planla yürür. İstanbul Bursa güzergâhında yük dağılımını dengeler, kırılacakları ayrı istifleriz. Hamallık bedeli ile kat bilgisi en başta netleşir. Teslimatta oda yerleşimini sizinle kontrol eder, tutanakla süreci kapatırız.</p>"
+}

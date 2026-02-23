@@ -1,0 +1,15 @@
+{
+  "title": "Galeri",
+  "description": "<p>Galeri, paketleme detaylarını, asansör kurulumunu, araç içi istifi gösterir; seçtiğiniz ev taşıma hizmeti standardını sahada netleştirir, fikir verir.</p>",
+  "images": [
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-1.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-2.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-3.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-4.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-5.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-6.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-7.webp",
+    "/uploads/istanbul-dan-bursa-ya-ev-tasima-8.webp"
+  ],
+  "footer": "<p>Fotoğraflar yalnızca görüntü değildir; kullanılan ambalajı, ekip düzenini, kat korumasını da anlatır. Koli etiketlerinin okunaklı olması, mobilya parçalarının ayrı poşetlenmesi, araç içi takozlama gibi detayları görürsünüz. Dar girişte asansörlü ev taşıma kurulumunu, kırılacakların ayrı istifini seçebilirsiniz. Böylece taşınma günü beklentiniz ile uygulama aynı çizgide buluşur, kararınız hızlanır kolayca.</p>"
+}

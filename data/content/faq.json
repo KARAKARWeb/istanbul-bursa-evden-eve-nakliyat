@@ -1,0 +1,46 @@
+{
+  "title": "İstanbul'dan Bursa'ya Nakliyatta Sıkça Sorulan Sorular",
+  "description": "<p>Sık sorulan sorular bölümünde, İstanbul Bursa nakliyat sürecindeki ücret, sigorta, asansör, paketleme gibi detayları kısa, net biçimde yanıtlıyoruz.</p>",
+  "faqs": [
+    {
+      "q": "İstanbul’dan Bursa’ya taşınırken ücretsiz ekspertiz neden gerekli?",
+      "a": "Keşifte bina girişi, kat bilgisi, park alanı, eşya hacmi ölçülür. Malzeme ve ekip sayısı belirlenir. Kalem kalem teklif çıkar. Böylece taşınma günü sürpriz masraf riski azalır."
+    },
+    {
+      "q": "Evden eve nakliyat fiyatı hesaplanırken oda sayısı dışında hangi detaylar etkiler?",
+      "a": "Hacim, kat, park mesafesi, montaj süresi ücreti değiştirir. Asansör ihtiyacı merdiven genişliğiyle ölçülür. Hamallık bedeli kat ve taşıma mesafesine bağlıdır. Net bilgiyle teklif dengelenir."
+    },
+    {
+      "q": "Sigortalı taşımada poliçe kapsamı hangi riskleri içerir?",
+      "a": "Poliçe; taşıma sırasında kırılma, çizilme, düşme gibi riskleri kapsar. Hasarda tutanak tutulur, fotoğraf eklenir. Dosya açılır, onarım veya ödeme seçeneği ilerler. Süreç yazılı izlenir."
+    },
+    {
+      "q": "Sözleşmeli taşıma yaptırırsam sözleşmede hangi maddeler bulunmalı?",
+      "a": "Sözleşmede tarih, adres, eşya listesi, ücret kalemleri, iptal şartı yer almalı. Tarih değişikliği maddesi net olmalı. Teslimde imzalı liste ve kontrol tutanağı isteyin. Böylece haklarınız korunur."
+    },
+    {
+      "q": "Asansörlü taşıma hangi binalarda zorunlu hâle gelir?",
+      "a": "Dar merdiven, yüksek kat, büyük mobilya varsa asansör gerekir. Cephe mesafesi ve zemin kontrol edilir. Kurulum genelde kısa sürer. Güvenlik şeridi çekilir, bina izinleri önceden konuşulur."
+    },
+    {
+      "q": "Paketleme standartlarınızda hangi malzemeler kullanılır?",
+      "a": "Köpük koruma, köşe kartonu, streç film, askılı koli kullanılır. Cam ve porselen ayrı kolilenir. Etiketlerde oda kodu bulunur. Kayışlama yükleme bitince yapılır, takozlar boşluğu kapatır."
+    },
+    {
+      "q": "Bursa’da teslimat günü nasıl planlanır?",
+      "a": "Varış saatini önceden bildiririz, randevu ona göre kurulur. Koli sayımı girişte yapılır. Oda planı uygulanır. Montaj sonrası menteşe, çekmece, kapak ayarları kontrol edilir, eksik varsa tamamlanır."
+    },
+    {
+      "q": "Eşya depolama gerekiyorsa alan koşulları nasıl olmalı?",
+      "a": "Alan kilitli olmalı, raflar numaralı düzen kurmalı. Nem düzenli ölçülür, kartonlar korunur. Teslimde depo listesiyle koli kodu sayılır. Böylece karışıklık yaşanmaz, aradığınız parça bulunur."
+    },
+    {
+      "q": "Ofis taşımacılığında arşiv ve cihazlar nasıl sınıflanır?",
+      "a": "Arşiv kutuları kodlanır, cihazlar darbeye karşı desteklenir. Kablolar poşetlenir, etiketlenir. Kurulum planı masa bazında yazılır. Taşıma akşam saatine kaydırılır, sabah iş akışı toparlanır."
+    },
+    {
+      "q": "İstanbul Bursa taşınmasında araç seçimi nasıl yapılır?",
+      "a": "Araç seçimi hacme ve bina koşuluna göre yapılır. Kapalı kasa, hava ve toz riskini azaltır. Uzun yolda istif kontrolü hasarı önler. Rota, mola, park bilgisiyle teslim saati korunur."
+    }
+  ]
+}

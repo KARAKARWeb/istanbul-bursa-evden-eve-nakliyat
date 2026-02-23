@@ -1,0 +1,71 @@
+{
+  "reviews": [
+    {
+      "id": "global-rev-001",
+      "author": "Mehmet Ali Yılmaz",
+      "rating": 5,
+      "comment": "İstanbul'dan Bursa'ya taşınma sürecimiz tam bir başarı hikayesiydi. 15 yıllık evlilik hayatımızda biriktirdiğimiz tüm eşyalarımız, antika mobilyalarımız ve hassas elektronik cihazlarımız tek bir çizik bile almadan yeni evimize ulaştı. Ekip lideri Ahmet Bey'in profesyonelliği, ekibin özverili çalışması ve sürecin her aşamasında gösterilen şeffaflık gerçekten takdire şayan. Sigorta kapsamı tam, sözleşme detaylı ve fiyat son derece makul. Bursa'daki yeni hayatımıza huzurla başladık. Herkese gönül rahatlığıyla tavsiye ediyorum.",
+      "location": "Kadıköy, İstanbul → Osmangazi, Bursa",
+      "date": "2026-02-20",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "global-rev-002",
+      "author": "Ayşe Demir",
+      "rating": 4.9,
+      "comment": "4+1 dairemizi İstanbul'dan Bursa'ya taşırken gerçekten kaliteli bir hizmet aldık. Özellikle mutfak dolabının demontajı ve montajı sırasında gösterilen titizlik, cam eşyalarımızın özel ambalajlanması ve beyaz eşyaların orijinal kutularında taşınması bizi çok etkiledi. Piano'muzun taşınması için özel ekipman kullanıldı, tüm süreç boyunca düzenli bilgilendirme yapıldı. Fiyat teklifi net ve şeffaftı, hiçbir gizli masraf çıkmadı. Bursa'daki yeni evimizde her şey yerli yerinde. Teşekkürler!",
+      "location": "Beşiktaş, İstanbul → Nilüfer, Bursa",
+      "date": "2026-02-18",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "global-rev-003",
+      "author": "Hasan Öztürk",
+      "rating": 4.8,
+      "comment": "Şehirlerarası nakliyat konusunda çok araştırma yaptık ve doğru kararı verdik. Asansörlü nakliyat sistemi sayesinde 6. kattan eşyalarımız güvenle indi, ağır mobilyalar için kullanılan özel ekipmanlar ve profesyonel ekibin deneyimi gerçekten fark yarattı. Keşif aşamasından teslimat sonrasına kadar her aşama planlı ve düzenli ilerledi. Sigorta poliçesi tam kapsamlıydı, içimiz rahat etti. Bursa'ya varışta yapılan envanter kontrolü ve montaj hizmeti mükemmeldi. Güvenilir, kaliteli ve ekonomik bir firma arıyorsanız kesinlikle doğru adres.",
+      "location": "Ataşehir, İstanbul → Yıldırım, Bursa",
+      "date": "2026-02-16",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "global-rev-004",
+      "author": "Fatma Kaya",
+      "rating": 5,
+      "comment": "3 çocuklu bir aile olarak taşınma sürecinden çok endişeliydik ama bu ekip tüm kaygılarımızı giderdi. Çocukların oyuncakları, kitapları, eşyaları özenle paketlendi ve etiketlendi. Mutfak eşyaları özel kolilerde, cam ürünler hava kabarcıklı malzemeyle korundu. Elektronik aletlerimiz antistatik örtüyle sarıldı. Yol boyunca trafik durumu izlendi, alternatif güzergah hazırdı. Bursa'daki yeni evimizde yerleşim planı hazırlandı, koliler odalara göre dağıtıldı. Montaj ekibi mobilyaları hızlıca kurdu. Fiyat performans açısından çok başarılı. Ailece çok memnun kaldık!",
+      "location": "Maltepe, İstanbul → Gemlik, Bursa",
+      "date": "2026-02-14",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "global-rev-005",
+      "author": "Kemal Arslan",
+      "rating": 4.9,
+      "comment": "Emekli olduktan sonra Bursa'ya taşınma kararı aldık ve bu firmayı tercih ettiğimiz için çok şanslıyız. Yaşlı bir çift olarak fiziksel olarak zorlanmadan tüm süreci tamamladık. Ekip her şeyi üstlendi: paketleme, demontaj, yükleme, nakliye, boşaltma, montaj ve hatta temizlik. Keşif için gelen uzman çok nazik ve profesyoneldi, teklif aşamasında her kalem açıklandı. Yatak takımı, gardırop, mutfak dolabı sökümü ve montajı mükemmeldi. Sigorta belgesi önceden elimize verildi, kapsam detaylı anlatıldı. Bursa'daki yeni mahallemize güvenle yerleştik. Herkese tavsiye ederiz.",
+      "location": "Üsküdar, İstanbul → Mudanya, Bursa",
+      "date": "2026-02-12",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "id": "global-rev-006",
+      "author": "Emre Yıldırım",
+      "rating": 4.7,
+      "comment": "İş değişikliği nedeniyle acil taşınmamız gerekiyordu ve bu firma gerçekten hızlı çözüm üretti. 3 gün içinde keşif, paketleme ve taşınma işlemi tamamlandı. Ekip sabah 07:00'de geldi, akşam 19:00'da Bursa'daki yeni evimizde tüm kurulum bitmişti. Rulo film, köpük levha, karton kutu kullanımı profesyonelceydi. Araç içi düzen mükemmeldi, kayış sistemiyle her şey sabitlendi. Yol boyunca ekip şefi düzenli bilgi verdi. Fiyat teklifi şeffaftı, ekstra ücret çıkmadı. Hızlı, güvenilir ve kaliteli hizmet arayanlar için ideal bir firma. Çok teşekkürler!",
+      "location": "Kartal, İstanbul → İnegöl, Bursa",
+      "date": "2026-02-10",
+      "verified": true,
+      "featured": true
+    }
+  ],
+  "aggregateRating": {
+    "ratingValue": 4.87,
+    "reviewCount": 6,
+    "bestRating": 5,
+    "worstRating": 1
+  },
+  "lastUpdated": "2026-02-23T03:57:00.000Z"
+}

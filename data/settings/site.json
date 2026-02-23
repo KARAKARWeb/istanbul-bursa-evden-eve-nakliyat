@@ -1,0 +1,18 @@
+{
+  "domain": "istanbulbursaevdenevenakliyat.com",
+  "siteName": "İstanbul Bursa Evden Eve Nakliyat",
+  "siteTitle": "İstanbul Bursa Evden Eve Nakliyat | Profesyonel Taşımacılık",
+  "description": "İstanbul Bursa Evden Eve Nakliyat için sözleşmeli, sigortalı ve asansörlü seçenekleri görün; ambalaj paketleme, oda kodlu etiketleme, kontrollü teslim.",
+  "author": "İstanbul Bursa Evden Eve Nakliyat",
+  "logoLight": "/logo-beyaz.svg",
+  "logoDark": "/logo-koyu.svg",
+  "favicon": "/favicon.ico",
+  "language": "tr",
+  "currency": "TRY",
+  "timezone": "Europe/Istanbul",
+  "social": {
+    "twitter": "@istanbulizmir",
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/"
+  }
+}
